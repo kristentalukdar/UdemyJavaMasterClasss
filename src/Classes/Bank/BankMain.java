@@ -1,4 +1,4 @@
-package Classes;
+package Classes.Bank;
 
 public class BankMain {
 

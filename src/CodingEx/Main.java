@@ -1,6 +1,4 @@
-package Classes;
-
-import java.sql.SQLOutput;
+package CodingEx;
 
 public class Main {
     public static  void checkGameStatus(int score){

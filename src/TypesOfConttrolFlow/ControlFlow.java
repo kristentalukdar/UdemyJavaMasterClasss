@@ -1,4 +1,4 @@
-package Classes;
+package TypesOfConttrolFlow;
 
 public class ControlFlow {
     //Switch Statement Examples

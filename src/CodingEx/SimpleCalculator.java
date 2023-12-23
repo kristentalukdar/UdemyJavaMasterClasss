@@ -1,4 +1,4 @@
-package Classes;
+package CodingEx;
 
 public class SimpleCalculator {
 

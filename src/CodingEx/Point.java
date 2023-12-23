@@ -1,4 +1,4 @@
-package Classes;
+package CodingEx;
 
 import static java.lang.Math.pow;
 

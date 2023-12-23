@@ -1,6 +1,4 @@
-package Classes;
-
-import javax.crypto.Cipher;
+package Classes.CustomerCredential;
 
 public class Customer {
 

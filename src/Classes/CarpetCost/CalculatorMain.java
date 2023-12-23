@@ -1,4 +1,6 @@
-package Classes;
+package Classes.CarpetCost;
+
+import CodingEx.SimpleCalculator;
 
 public class CalculatorMain {
 

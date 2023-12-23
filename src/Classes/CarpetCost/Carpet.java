@@ -1,4 +1,4 @@
-package Classes;
+package Classes.CarpetCost;
 
 public class Carpet {
     private double cost;

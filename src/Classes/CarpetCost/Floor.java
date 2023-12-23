@@ -1,4 +1,4 @@
-package Classes;
+package Classes.CarpetCost;
 
 public class Floor {
 

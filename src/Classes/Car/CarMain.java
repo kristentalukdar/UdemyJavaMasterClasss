@@ -1,4 +1,4 @@
-package Classes;
+package Classes.Car;
 
 public class CarMain {
     public static void main(String[] args) {
